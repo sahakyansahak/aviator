@@ -61,3 +61,4 @@ while True:
 
 print("This is test")
 print("This is test2")
+print("This is master")
