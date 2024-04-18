@@ -59,4 +59,4 @@ while True:
         num = driver.find_elements_by_xpath("/html/body/app-root/app-game/div/div[1]/div[2]/div/div[2]/div[2]/app-play-board/div/div[2]/app-dom-container/div/div[2]/div[2]")
      
 
-    
+print("This is test")
